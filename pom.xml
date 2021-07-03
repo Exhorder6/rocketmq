@@ -154,7 +154,7 @@
                 </executions>
                 <configuration>
                     <rules>
-                        <banCircularDependencies />
+                        <banCircularDependencies/>
                     </rules>
                     <fail>true</fail>
                 </configuration>
@@ -577,7 +577,7 @@
             <dependency>
                 <groupId>org.yaml</groupId>
                 <artifactId>snakeyaml</artifactId>
-                <version>1.19</version>
+                <version>1.29</version>
             </dependency>
             <dependency>
                 <groupId>commons-codec</groupId>
