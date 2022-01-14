@@ -154,7 +154,7 @@
                 </executions>
                 <configuration>
                     <rules>
-                        <banCircularDependencies />
+                        <banCircularDependencies/>
                     </rules>
                     <fail>true</fail>
                 </configuration>
@@ -562,7 +562,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>19.0</version>
+                <version>30.0-android</version>
             </dependency>
             <dependency>
                 <groupId>io.openmessaging</groupId>
